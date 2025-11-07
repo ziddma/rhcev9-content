@@ -1,21 +1,26 @@
+---
 users:
-- name: user1
+  - name: alice
+    uid: 1101
     job: developer
-- name: user2
-    job: developer
-- name: user3
-    job: developer
-- name: user4
-    job: developer
-- name: user5
-    job: developer
-- name: user6
+    password_expire_days: 30
+
+  - name: bob
+    uid: 1102
     job: manager
-- name: user7
+    password_expire_days: 45
+
+  - name: charlie
+    uid: 1103
+    job: developer
+    password_expire_days: 60
+
+  - name: diana
+    uid: 1104
     job: manager
-- name: user8
-    job: manager
-- name: user9
-    job: manager
-- name: user10
-   job: manager
+    password_expire_days: 90
+
+  - name: eve
+    uid: 1105
+    job: developer
+    password_expire_days: 30
