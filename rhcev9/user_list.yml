@@ -1,0 +1,21 @@
+users:
+- name: user1
+    job: developer
+- name: user2
+    job: developer
+- name: user3
+    job: developer
+- name: user4
+    job: developer
+- name: user5
+    job: developer
+- name: user6
+    job: manager
+- name: user7
+    job: manager
+- name: user8
+    job: manager
+- name: user9
+    job: manager
+- name: user10
+   job: manager
