@@ -1,26 +1,25 @@
----
 users:
-  - name: alice
-    uid: 1101
+  - name: frank
+    uid: 1201
     job: developer
-    password_expire_days: 30
-
-  - name: bob
-    uid: 1102
-    job: manager
     password_expire_days: 45
 
-  - name: charlie
-    uid: 1103
-    job: developer
+  - name: grace
+    uid: 1202
+    job: manager
     password_expire_days: 60
 
-  - name: diana
-    uid: 1104
-    job: manager
-    password_expire_days: 90
-
-  - name: eve
-    uid: 1105
+  - name: hank
+    uid: 1203
     job: developer
     password_expire_days: 30
+
+  - name: irene
+    uid: 1204
+    job: manager
+    password_expire_days: 75
+
+  - name: jack
+    uid: 1205
+    job: developer
+    password_expire_days: 90
